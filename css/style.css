@@ -1,0 +1,34 @@
+.bg-navy {
+  background-color: navy;
+}
+
+.bg-cyan {
+  background-color: cyan;
+}
+
+.bg-golden {
+  background-color: gold;
+}
+
+.bg-magenta {
+  background-color: magenta;
+}
+
+.bg-yellow {
+  background-color: yellow;
+}
+
+.bg-purple {
+  background-color: purple;
+}
+
+.justify-content-evenly {
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.w-50 {
+  width: calc(50% - 1.5rem) !important;
+}
+/*# sourceMappingURL=style.css.map */
